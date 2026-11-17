@@ -1,0 +1,43 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data files
+data/*.csv
+data/*.xlsx
+
+# Model files
+models/*.pkl
+models/*.joblib
+
+# Outputs
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# All generated data
+data/processed/
+
+# Trained models
+models/
+
+# Model files
+*.keras
+*.h5
