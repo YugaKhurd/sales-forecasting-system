@@ -16,6 +16,9 @@ __pycache__/
 
 # VS Code
 .vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
 
 # Data files
 data/*.csv
